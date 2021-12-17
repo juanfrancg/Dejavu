@@ -1,0 +1,76 @@
+@charset "UTF-8";
+.fondo{
+	background-color: lightgrey;
+	font-family: sans-serif;
+	text-align: justific;
+	margin: 0 0 2em;
+	display: block;
+}
+.titulo_prin{
+	color: white;
+	text-align: right;
+	background-color: black;
+	padding: 1px;
+	margin: 0;
+}
+
+.timep{
+	border-top: black 3px solid;
+ 	margin-top: 2em;
+  	padding-top: 2em;
+  	margin-left: 20%;
+  	margin-right: 20%;
+  	text-align: center;
+}
+
+.subtitulo{
+	margin-left: 20%;
+  	margin-right: 20%;
+  	border-bottom: white 5px solid;
+}
+.fecha {
+	background-color: grey;
+	color: white;
+	font-weight: bold;
+	letter-spacing: 5px;
+	font-size: 200%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.sec{
+	margin-left: 20%;
+  	margin-right: 20%;
+}
+.negrita{
+	font-weight: bold;
+	font-variant: small-caps;
+}
+.sub{
+  border-bottom: red 1px dashed;
+  font-size: 150%;
+}
+.job{
+	background-color: white;
+	color: red;
+}
+.loc{
+	color: blue;
+}
+.final{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	border-top: 0.2em solid black;
+	background-color: white;
+	padding-bottom: 1em;
+	width: 100%;
+	height: 2em;
+	text-align: center;
+}
+.autor{
+	position:relative;
+	display: inline-block;
+	font-size: smaller;
+}
